@@ -1,0 +1,1 @@
+# Each task was written in a jupyter notebook. Each report is contained on a separate folter, which consists of a html compiled version of the notebooks, it opens on any browser. The notebooks containing all the code, the datasets and histograms are available aswell.
